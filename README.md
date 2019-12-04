@@ -1,7 +1,10 @@
 # face
-1.ÔËÐÐget_faces_from_camera.py,Â¼ÈëÈËÁ³£¬°´n¼ü´´½¨´æ´¢ÈËÁ³µÄÎÄ¼þ¼Ð£¬´´½¨ÎÄ¼þ¼Ðºó£¬¿ØÖÆÌ¨ÊäÈëÐÕÃû
-Ä¿Ç°Ö»Ö§³ÖÓ¢ÎÄÃû£¬s¼ü£¬ÉãÏñÍ·»áÂ¼ÈëÈËÁ³£¬q¼üÍË³ö
-2.ÔËÐÐfeatures_extraction_to_cvs.py,½«ÈËÁ³¿âµÄÕÕÆ¬×÷ÎªÉñ¾­ÍøÂçµÄÊäÈë£¬ÌáÈ¡160Î¬¶ÈÈËÁ³ÌØÕ÷²¢´æ´¢cvsÎÄ¼þÀï
-3.ÔËÐÐface_reco_from_camera.py,Ê¶±ðÈËÁ³¡£
-4.name.pkl´æ´¢µÄÊÇÈËÁ³µÄÐÕÃû£¬Ã¿¸öÃû×Ö¶ÔÓ¦data/data_face_from_cameraµÄÃ¿¸öÎÄ¼þ¼ÐÃû£¬.pkl´æ´¢µÄÊÇÒ»¸ö×Öµä£¬
-¿ÉÒÔÍ¨¹ýÐÞ¸ÄÕâ¸ö×ÖµäÐÞ¸ÄÐÕÃû
+1.è¿è¡Œget_faces_from_camera.py,å½•å…¥äººè„¸ï¼ŒæŒ‰né”®åˆ›å»ºå­˜å‚¨äººè„¸çš„æ–‡ä»¶å¤¹ï¼Œåˆ›å»ºæ–‡ä»¶å¤¹åŽï¼ŒæŽ§åˆ¶å°è¾“å…¥å§“å
+ç›®å‰åªæ”¯æŒè‹±æ–‡åï¼Œsé”®ï¼Œæ‘„åƒå¤´ä¼šå½•å…¥äººè„¸ï¼Œqé”®é€€å‡º
+
+2.è¿è¡Œfeatures_extraction_to_cvs.py,å°†äººè„¸åº“çš„ç…§ç‰‡ä½œä¸ºç¥žç»ç½‘ç»œçš„è¾“å…¥ï¼Œæå–28ç»´äººè„¸ç‰¹å¾å¹¶å­˜å‚¨cvsæ–‡ä»¶é‡Œ
+
+3.è¿è¡Œface_reco_from_camera.py,è¯†åˆ«äººè„¸ã€‚
+
+4.name.pklå­˜å‚¨çš„æ˜¯äººè„¸çš„å§“åï¼Œæ¯ä¸ªåå­—å¯¹åº”data/data_face_from_cameraçš„æ¯ä¸ªæ–‡ä»¶å¤¹åï¼Œ.pklå­˜å‚¨çš„æ˜¯ä¸€ä¸ªå­—å…¸ï¼Œ
+å¯ä»¥é€šè¿‡ä¿®æ”¹è¿™ä¸ªå­—å…¸ä¿®æ”¹å§“å
